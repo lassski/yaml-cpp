@@ -1,5 +1,6 @@
 build/
 /tags
 /bazel-*
+bin/
 
-yaml-cpp.xcodeproj
+yaml-cpp.xcodeproj/
