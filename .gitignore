@@ -1,6 +1,6 @@
-build/**
+build/
 /tags
 /bazel-*
-bin/**
-
-yaml-cpp.xcodeproj/**
+bin/
+*.xcodeproj/
+bin/Debug-macosx-x86_64/yaml-cpp/libyaml-cpp.a
